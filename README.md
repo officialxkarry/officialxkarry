@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kartik  
 - 👀 I’m interested in Digital developments and tech innovations...
 - 🌱 I’m currently learning Javascript and DSA...
-- 💞️ I’m looking to collaborate on Web dev projects
+- 💞️ I’m looking to collaborate on Web dev,App dev and Android dev projects
 - 📫 How to reach me - Dm me on Ig ''@staying.kartik_''
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm enthusiast techie and Gamer.
